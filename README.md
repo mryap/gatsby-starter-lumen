@@ -1,6 +1,10 @@
 <h1 align="center">
-    <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/master/.github/logo.png" width="140"> </br>
-    Lumen
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/master/.github/logo-light.png" width="140">
+    <img src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/master/.github/logo-dark.png" width="140">
+  </picture>
+  <br>
+  Lumen
 </h1>
 
 <h4 align="center">
@@ -8,7 +12,7 @@
 </h4>
 
 <p align="center">
-    <a target="_blank" href="https://circleci.com/gh/alxshelepenok/gatsby-starter-lumen"><img src="https://circleci.com/gh/alxshelepenok/gatsby-starter-lumen.svg?style=svg"></a> <a target="_blank" href="https://codecov.io/gh/alxshelepenok/gatsby-starter-lumen"><img src="https://codecov.io/gh/alxshelepenok/gatsby-starter-lumen/branch/master/graph/badge.svg"></a> <a target="_blank" href="https://www.codacy.com/gh/alxshelepenok/gatsby-starter-lumen/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alxshelepenok/gatsby-starter-lumen&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/2d21235e36e34b758aaa27fecd3c8048"></a> <a target="_blank" href="https://codeclimate.com/github/alxshelepenok/gatsby-starter-lumen"><img src="https://img.shields.io/codeclimate/maintainability/alxshelepenok/gatsby-starter-lumen.svg"></a> <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Falxshelepenok%2Fgatsby-starter-lumen?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Falxshelepenok%2Fgatsby-starter-lumen.svg?type=shield"/></a>
+  <a target="_blank" href="https://codecov.io/gh/alxshelepenok/gatsby-starter-lumen"><img src="https://codecov.io/gh/alxshelepenok/gatsby-starter-lumen/branch/master/graph/badge.svg"></a> <a target="_blank" href="https://www.codacy.com/gh/alxshelepenok/gatsby-starter-lumen/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alxshelepenok/gatsby-starter-lumen&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/2d21235e36e34b758aaa27fecd3c8048"></a> <a target="_blank" href="https://codeclimate.com/github/alxshelepenok/gatsby-starter-lumen"><img src="https://img.shields.io/codeclimate/maintainability/alxshelepenok/gatsby-starter-lumen.svg"></a> <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Falxshelepenok%2Fgatsby-starter-lumen?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Falxshelepenok%2Fgatsby-starter-lumen.svg?type=shield"/></a>
 </p>
 
 ## Table of contents
@@ -124,7 +128,7 @@ Thanks to these wonderful people!
 
 The MIT License (MIT)
 
-Copyright (c) 2016-2022 Alexander Shelepenok
+Copyright (c) 2016-2023 Alexander Shelepenok
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
